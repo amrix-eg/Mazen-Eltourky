@@ -63,7 +63,7 @@ Mazen-Eltourky/
 
 ## </> Developer
 
-**Developed by Raed Mosaed**
+**Developed by [Amrix](https://github.com/amrix-eg) & [Raed Mosaed](https://github.com/raedmosaed0)**
 
 ---
 
